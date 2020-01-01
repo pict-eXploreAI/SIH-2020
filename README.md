@@ -8,17 +8,17 @@ Our platform will help people form informed opinions on any political matter by 
 Our platform will also aid in better policy formation by helping policy analysts compile and understand the social opinions being formed on the internet.
 
 ## Tasks to be Done
-[ ] Twitter Sentiment Analysis
-[ ] Topic Modelling
-[ ] News Text Summarization
-[ ] Cause and Effect Analysis
-[ ] Google Search Data Analysis
-[ ] Region-wise Crime Data Analysis
+- [ ] Twitter Sentiment Analysis
+- [ ] Topic Modelling
+- [ ] News Text Summarization
+- [ ] Cause and Effect Analysis
+- [ ] Google Search Data Analysis
+- [ ] Region-wise Crime Data Analysis
 
 ## Timeline
-	- Phase 1: Till 5th January, 2020 (All modules to be completed)
-	- Phase 2: Till 10th January, 2020 (Integration of seperate modules)
-	- Further phases to be decided later
+* Phase 1: Till 5th January, 2020 (All modules to be completed)
+* Phase 2: Till 10th January, 2020 (Integration of seperate modules)
+* Further phases to be decided later
 	
 ## Team Members
 1. Kunal Sinha
@@ -29,6 +29,6 @@ Our platform will also aid in better policy formation by helping policy analysts
 6. Sanya Verghese
 
 ### Currently Assigned Work
-	- Sentiment Analysis + Scraping - Kunal Chadha & Tanvi Bhaskarwar
-	- Text Summarization + Cause and Effects Modelling - Bhushan Pagare & Kunal Sinha
-	- Topic Modelling + Google Data Analysis - Aditya Chaloo & Sanya Verghese
+* Sentiment Analysis + Scraping - Kunal Chadha & Tanvi Bhaskarwar
+* Text Summarization + Cause and Effects Modelling - Bhushan Pagare & Kunal Sinha
+* Topic Modelling + Google Data Analysis - Aditya Chaloo & Sanya Verghese
