@@ -26,9 +26,9 @@ Our platform will also aid in better policy formation by helping policy analysts
 3. Kunal Chadha
 4. Aditya Chaloo
 5. Tanvi Bhaskarwar
-6. Sanya Verghese
+6. Sanya Varghese
 
 ### Currently Assigned Work
 * Sentiment Analysis + Scraping - Kunal Chadha & Tanvi Bhaskarwar
 * Text Summarization + Cause and Effects Modelling - Bhushan Pagare & Kunal Sinha
-* Topic Modelling + Google Data Analysis - Aditya Chaloo & Sanya Verghese
+* Topic Modelling + Google Data Analysis - Aditya Chaloo & Sanya Varghese
